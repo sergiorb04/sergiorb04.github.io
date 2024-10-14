@@ -1,6 +1,5 @@
 ---
 title: Ubicación
-Subtitle:
 layout: home
 nav_order: 2
 ---
