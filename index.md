@@ -1,5 +1,7 @@
 ---
 title: Catedrales
+title: Ubicación
+title: Mareas
 layout: home
 ---
 
