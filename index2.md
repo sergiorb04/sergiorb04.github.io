@@ -1,6 +1,6 @@
 ---
 title: Ubicación
-llave:
+Subtitulo:
   subtitle1: ¿Que es?
   subtitle2: Como acceder
 layout: home
