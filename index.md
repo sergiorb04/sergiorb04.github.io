@@ -1,8 +1,5 @@
 ---
-titles: 
-  tittle: Introducción
-  tittle2: Ubicación
-  tittle3: Fotos
+title: Introducción
 layout: home
 ---
 
