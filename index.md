@@ -1,5 +1,5 @@
 ---
-title: Ubicación
+title: Introducción
 layout: home
 ---
 
