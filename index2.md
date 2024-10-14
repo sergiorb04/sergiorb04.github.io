@@ -1,5 +1,7 @@
 ---
 title: Ubicación
+  subtitle1: ¿Que es?
+  subtitle2: Como acceder
 layout: home
 nav_order: 2
 ---
