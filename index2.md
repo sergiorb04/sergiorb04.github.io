@@ -1,6 +1,5 @@
 ---
 title: Ubicación
-parent: Puntos de vista
 layout: home
 nav_order: 2
 ---
