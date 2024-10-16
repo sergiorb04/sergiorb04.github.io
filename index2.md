@@ -1,8 +1,5 @@
 ---
 title: Ubicación
-  -shortittle: Punto de vista global
-  -shortittle: Punto de vista nacional
-  -shortittle: Punto de vista provincial
 layout: home
 nav_order: 2
 ---
