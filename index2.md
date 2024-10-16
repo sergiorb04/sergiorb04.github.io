@@ -1,12 +1,10 @@
 ---
 title: Ubicación
+  -shortittle: Punto de vista global
+  -shortittle: Punto de vista nacional
+  -shortittle: Punto de vista provincial
 layout: home
 nav_order: 2
----
----
-  -subtittle: Punto de vista global
-  -subtittle: Punto de vista nacional
-  -subtittle: Punto de vista provincial
 ---
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
