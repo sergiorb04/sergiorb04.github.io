@@ -1,6 +1,5 @@
 ---
 title: Ubicación
-parent: hola
 layout: home
 nav_order: 2
 ---
