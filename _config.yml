@@ -5,6 +5,8 @@ theme: just-the-docs
 url: https://just-the-docs.github.io
 
 nav_external_links:
-  - title: Solicitud Ticket Acceso
-  url: https://ascatedrais.xunta.gal/monatr/inicio?lang=es
+    tittle: Solicitud Ticket Acceso
+    url: https://ascatedrais.xunta.gal/monatr/inicio?lang=es
+    hide_icon: false
+    opens_in_new_tab: false
  
