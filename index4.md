@@ -1,5 +1,5 @@
 ---
 title: Acceso a la playa
-layout: https://ascatedrais.xunta.gal/monatr/inicio?lang=es
+layout: home
 nav_order: 4
 ---
