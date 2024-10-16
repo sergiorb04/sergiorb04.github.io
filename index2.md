@@ -1,8 +1,8 @@
 ---
 title: Ubicación
-  subtittle: Punto de vista global
-  subtittle: Punto de vista nacional
-  subtittle: Punto de vista provincial
+  -subtittle: Punto de vista global
+  -subtittle: Punto de vista nacional
+  -subtittle: Punto de vista provincial
   
 layout: home
 nav_order: 2
