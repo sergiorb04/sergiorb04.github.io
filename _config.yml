@@ -6,8 +6,7 @@ url: https://just-the-docs.github.io
 
 logo: logo.jpeg
 
-favicon_ico: "/assets/images/favicon.ico"
-
+favicon_ico: favicono.jpg
 
 nav_external_links:
   - title: Solicitud Ticket Acceso
