@@ -1,0 +1,1 @@
+![Texto Alternativo](!https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.galiciatravels.com%2F6-datos-sobre-la-playa-de-las-catedrales%2F&psig=AOvVaw1peX7oVrgG6HY8L9ZM2b4X&ust=1729591192405000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjkwrabn4kDFQAAAAAdAAAAABAE)
