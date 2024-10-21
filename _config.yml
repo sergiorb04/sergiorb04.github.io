@@ -9,7 +9,7 @@ logo: logo.jpeg
 nav_external_links:
   - title: Solicitud Ticket Acceso
     url: https://ascatedrais.xunta.gal/monatr/inicio?lang=es
-    hide_icon: false
-    opens_in_new_tab: true
+    hide_icon: "false"
+    opens_in_new_tab: "true"
  
 favicon: "favicon.ico"
