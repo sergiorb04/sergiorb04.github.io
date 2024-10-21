@@ -4,6 +4,8 @@ theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
+logo: img2.jpeg
+
 favicon_ico: favicono.jpg
 
 nav_external_links:
