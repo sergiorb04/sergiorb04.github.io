@@ -1,1 +1,1 @@
-![Texto Alternativo]("M:\lmsx\rodbarser\logo pag.jpg")
+![Catedrales]("M:\lmsx\rodbarser\logo pag.jpg")
