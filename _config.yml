@@ -6,6 +6,9 @@ url: https://just-the-docs.github.io
 
 logo: logo.jpeg
 
+favicon_ico: "/assets/images/favicon.ico"
+
+
 nav_external_links:
   - title: Solicitud Ticket Acceso
     url: https://ascatedrais.xunta.gal/monatr/inicio?lang=es
